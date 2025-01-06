@@ -1,0 +1,1 @@
+The current project acts as a display of what I had learnt through The Odin Project foundations recipes module!
